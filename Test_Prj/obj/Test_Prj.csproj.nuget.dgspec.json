@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vitalii/Projects/Repo_GitHub/Test_Prj/Test_Prj/Test_Prj.csproj": {}
+  },
+  "projects": {
+    "/Users/vitalii/Projects/Repo_GitHub/Test_Prj/Test_Prj/Test_Prj.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vitalii/Projects/Repo_GitHub/Test_Prj/Test_Prj/Test_Prj.csproj",
+        "projectName": "Test_Prj",
+        "projectPath": "/Users/vitalii/Projects/Repo_GitHub/Test_Prj/Test_Prj/Test_Prj.csproj",
+        "packagesPath": "/Users/vitalii/.nuget/packages/",
+        "outputPath": "/Users/vitalii/Projects/Repo_GitHub/Test_Prj/Test_Prj/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vitalii/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
